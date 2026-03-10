@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/plumbing", "destination": "/pages/plumbing/index.html" },
+    { "source": "/roofing", "destination": "/pages/roofing/index.html" },
+    { "source": "/hvac", "destination": "/pages/hvac/index.html" }
+  ]
+}

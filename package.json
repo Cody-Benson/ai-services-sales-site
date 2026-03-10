@@ -1,0 +1,23 @@
+{
+  "name": "ai-services-sales-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cody-Benson/ai-services-sales-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cody-Benson/ai-services-sales-site/issues"
+  },
+  "homepage": "https://github.com/Cody-Benson/ai-services-sales-site#readme",
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
